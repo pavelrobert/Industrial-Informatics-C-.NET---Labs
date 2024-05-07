@@ -1,0 +1,10 @@
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\bin\Debug\WinFormClient.exe.config
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\bin\Debug\WinFormClient.exe
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\bin\Debug\WinFormClient.pdb
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\obj\Debug\WinFormClient.csproj.AssemblyReference.cache
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\obj\Debug\WinFormClient.Form1.resources
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\obj\Debug\WinFormClient.Properties.Resources.resources
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\obj\Debug\WinFormClient.csproj.CoreCompileInputs.cache
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\obj\Debug\WinFormClient.exe
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\WinFormClient\obj\Debug\WinFormClient.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roby\\Desktop\\Uni Stuff\\An3Sem2\\II\\Lab1\\Ex4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB0973-36D8-4B96-A4D7-7EB88BE87DD0}|Ex4.csproj|c:\\users\\roby\\desktop\\uni stuff\\an3sem2\\ii\\lab1\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB0973-36D8-4B96-A4D7-7EB88BE87DD0}|Ex4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roby\\Desktop\\Uni Stuff\\An3Sem2\\II\\Lab1\\Ex4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Roby\\Desktop\\Uni Stuff\\An3Sem2\\II\\Lab1\\Ex4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:54:11.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

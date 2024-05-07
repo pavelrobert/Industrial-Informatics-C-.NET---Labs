@@ -1,0 +1,7 @@
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\myFirstClient\bin\Debug\myFirstClient.exe.config
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\myFirstClient\bin\Debug\myFirstClient.exe
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\myFirstClient\bin\Debug\myFirstClient.pdb
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\myFirstClient\obj\Debug\myFirstClient.csproj.AssemblyReference.cache
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\myFirstClient\obj\Debug\myFirstClient.csproj.CoreCompileInputs.cache
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\myFirstClient\obj\Debug\myFirstClient.exe
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab4\myFirstClient\obj\Debug\myFirstClient.pdb

@@ -1,0 +1,16 @@
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\bin\Debug\net8.0-windows\Ex3.exe
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\bin\Debug\net8.0-windows\Ex3.deps.json
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\bin\Debug\net8.0-windows\Ex3.runtimeconfig.json
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\bin\Debug\net8.0-windows\Ex3.dll
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\bin\Debug\net8.0-windows\Ex3.pdb
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\Ex3.Form1.resources
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\Ex3.csproj.GenerateResource.cache
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\Ex3.AssemblyInfoInputs.cache
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\Ex3.AssemblyInfo.cs
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\Ex3.dll
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\refint\Ex3.dll
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\Ex3.pdb
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\Ex3.genruntimeconfig.cache
+C:\Users\Roby\Desktop\Uni Stuff\An3Sem2\II\Lab2\Ex3\obj\Debug\net8.0-windows\ref\Ex3.dll

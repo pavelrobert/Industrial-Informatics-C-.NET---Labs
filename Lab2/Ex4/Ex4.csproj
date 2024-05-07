@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Batman_Arkham_Asylum.jpg" />
+    <None Remove="Bioshock_Infinite.jpg" />
+    <None Remove="Star_Wars_Jedi_Fallen_Order.png" />
+    <None Remove="The_Last_of_Us.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Batman_Arkham_Asylum.jpg" />
+    <Resource Include="Bioshock_Infinite.jpg" />
+    <Resource Include="Star_Wars_Jedi_Fallen_Order.png" />
+    <Resource Include="The_Last_of_Us.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
